@@ -1,0 +1,1 @@
+This PDF outlines the end-to-end process for bringing up a custom SAMD51-based PCB—from initial hardware checks and bootloader flashing through Arduino IDE integration, variant pin configuration, peripheral interface examples, and general troubleshooting guidance. 
